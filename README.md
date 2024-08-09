@@ -25,7 +25,7 @@ GPU------sudo sync; sudo echo 3 > /proc/sys/vm/drop_caches）-----------
 
 For single inference and batch inference settings, please change the batch_size , while Pytorch format needs to change the batch size in the model training, and the rest can be changed in the corresponding inference program.  
 
----Test sample----  
+---Test sample size setting----  
 
 For the test set sample size can be modified accordingly in X_test_sample.  
 
