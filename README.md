@@ -16,9 +16,9 @@ At the end of the test with exporting a format, please carry out the correspondi
 
 macOS----sudo purge --------  
 
-CPU------torch.cuda.empty_cache()--------  
+#CPU------torch.cuda.empty_cache()--------  
 
-GPU------sudo sync; sudo echo 3 > /proc/sys/vm/drop_caches）-----------  
+#GPU------sudo sync; sudo echo 3 > /proc/sys/vm/drop_caches）-----------  
 
 
 ---Batch size setting---  
