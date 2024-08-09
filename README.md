@@ -9,6 +9,7 @@ This file contains procedures for testing the energy consumption and inference t
 
 （All test tasks were based on the macOS platform and used PowerMetrics to record CPU and GUP energy consumption information. Therefore, you need to grant the appropriate programme privileges in the terminal before testing.）  
 
+The test programs with naming IMDB_ and Mnist_ as notebook files.
 
 At the end of the test with exporting a format, please carry out the corresponding system cache cleanup.  
 
