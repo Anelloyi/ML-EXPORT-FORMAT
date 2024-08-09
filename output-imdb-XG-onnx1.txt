@@ -1,0 +1,3 @@
+
+Total Duration(s): 1.28
+Inference Duration(s): 0.0010
