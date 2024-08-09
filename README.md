@@ -10,9 +10,7 @@ This file contains procedures for testing the energy consumption and inference t
 （All test tasks were based on the macOS platform and used PowerMetrics to record CPU and GUP energy consumption information. Therefore, you need to grant the appropriate programme privileges in the terminal before testing.）  
 
 
-Because this test is based on the masOS environment, at the end of the test without an export format, please carry out the corresponding system cache cleanup.  
-
-
+At the end of the test with exporting a format, please carry out the corresponding system cache cleanup.  
 
 
 macOS----sudo purge --------  
