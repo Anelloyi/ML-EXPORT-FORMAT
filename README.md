@@ -31,5 +31,5 @@ For the test set sample size can be modified accordingly in X_test_sample.
 
 ---Result analysis---   
 
-  For the test result, the files with name stat_
+  For the test result, the files with name stat(for energy consumption)/stat_time(for inference time)/with a notebook
 
